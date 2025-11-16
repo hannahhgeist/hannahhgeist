@@ -1,4 +1,5 @@
 ## Hi, Hannah here 👋
 
 🌱 **Aktuelles Projekt**
-- Bachelorarbeit in VSCode mit Latex schreiben, Auswertungen mit R
+- Hoffentlich bald den ersten Entwurf einer Webseite erstellen
+- irgendwann vielleicht einen BANU Ornithologie Übungsdatensatz
